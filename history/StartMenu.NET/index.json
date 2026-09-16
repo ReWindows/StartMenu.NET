@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "StartMenu.NET.dll",
+  "latest": "1787652294-CE90A10D2ABF466EBD18482B9547DF1E-1",
+  "builds": [
+    {
+      "key": "1787652294-CE90A10D2ABF466EBD18482B9547DF1E-1",
+      "timestamp": "1787652294",
+      "pdb_guid": "CE90A10D2ABF466EBD18482B9547DF1E",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1787652294-CE90A10D2ABF466EBD18482B9547DF1E-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
